@@ -17,5 +17,6 @@
 ## :droplet: Target Deliverables :droplet:
 
 - Visualization(s) that tell a story about water quality and surrounding land use over time
+    * [Seasonal Chesapeake Bay Water Temperature Visualization Video](https://jenli810006995.github.io/)
 - An explanation of methods for developing your analysis
 

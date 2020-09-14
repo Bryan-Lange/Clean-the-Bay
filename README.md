@@ -1,7 +1,6 @@
 ## Booz Allen Hamilton Hackathon 2020 - Challenge 1: Watershed Restoration Case Study 
 ### Project Authors: 
 * Marina Baker - [LinkedIn](https://www.linkedin.com/in/bakermarinam/)
-* Jen-Li Chen - [LinkedIn](https://www.linkedin.com/in/JenliChen)
 * Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
 
 ## :ocean: Guiding Questions :ocean:
@@ -17,6 +16,5 @@
 ## :droplet: Target Deliverables :droplet:
 
 - Visualization(s) that tell a story about water quality and surrounding land use over time
-    * [Seasonal Chesapeake Bay Water Temperature Visualization Video](https://jenli810006995.github.io/Jen-Li-Chen.github.io/)
 - An explanation of methods for developing your analysis
 
